@@ -1,5 +1,3 @@
-![WhatsApp Image 2025-09-12 at 09 02 18_cd29ee58](https://github.com/user-attachments/assets/012584d8-9c47-47d6-be92-89950c52392a)# EXP-1
-
 ## EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 
 ## AIM
